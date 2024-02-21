@@ -1,2 +1,2 @@
 # Api_App
-Build With Django(DRF)
+Build With Django_restframework
